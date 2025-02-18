@@ -99,7 +99,7 @@ document.addEventListener("DOMContentLoaded", function () {
 
   // Replace this URL with your Google Drive PDF link
   const pdfUrl =
-    "https://drive.google.com/file/d/1Ug1KRx5i4CsalzdbKmUdiVNShZA_w5yM/preview";
+    "https://drive.google.com/file/d/1xFhbgEKqJAMBOVguh8pBtfGcoz81nepx/preview";
   resumeBtn.addEventListener("click", function (e) {
     e.preventDefault();
     pdfModal.style.display = "flex";
